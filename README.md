@@ -1,8 +1,16 @@
-### Hi there 👋
+# Hi Friends :v: 
+
+
+* I'm currently working on Web development, Software Development (_desktop application_), Databases and DataBase Managenent System 
+* I'm always learning to be Fullstack or JedIt  
+* I'm looking to  collaborate on Mobile development
+* I'm intrested to security  :squirrel:
+
+### I'm looking collaborate for help on your projects. __Big Idea__ :trollface:
+
 
 <!--
 **Saulzupe/Saulzupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
