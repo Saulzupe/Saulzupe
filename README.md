@@ -2,8 +2,8 @@
 
 
 * I'm currently working on Web development, Software Development (_desktop application_), Databases and DataBase Managenent System 
-* I'm always learning to be Fullstack or JedIt  
-* I'm looking to  collaborate on Mobile development
+* I'm always learning to be better and surpass myself 
+* I'm looking to  collaborate and improve my skills
 * I'm intrested to security  :squirrel:
 
 ### I'm looking collaborate for help on your projects. __Big Idea__ :trollface:
