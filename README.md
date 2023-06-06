@@ -62,7 +62,8 @@ Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Univers
 - Organizado.
 - Inteligencia Emocional.
   
-  #### ¿Hablamos?☕️
+  
+ ## ¿Hablamos?☕️
 
 
 <p align="left">
