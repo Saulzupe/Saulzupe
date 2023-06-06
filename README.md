@@ -30,14 +30,6 @@ Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Univers
 * Excel
 * Gulp
 
-## SoftSkills
-- Trabajo en equipo.
-- Autodidacta.
-- Disciplinado.
-- Analitico.
-- Organizado.
-- Inteligencia Emocional.
-
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="65" height="65"/>
@@ -62,6 +54,14 @@ Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Univers
 </a>
 </p>
 
+  ## SoftSkills
+- Trabajo en equipo.
+- Autodidacta.
+- Disciplinado.
+- Analitico.
+- Organizado.
+- Inteligencia Emocional.
+  
   #### ¿Hablamos?☕️
 
 
