@@ -1,7 +1,7 @@
 # Saúl Zúñiga Pérez :v: 
 #### Desarrollador de Software  💻 actualmente en **búsqueda activa** de empleo♨️
 
-Me gusta aprender cosas nuevas, me considero una persona paciente, disciplinada y persistente. Soy un apasionado de la tecnología, cocina, video juegos y el deporte. Me enfoco en el desarrollo web y de software, así como el desarrollo de bases de datos. 
+Me gusta aprender cosas nuevas, me considero una persona paciente, disciplinada y persistente. Soy un apasionado de la tecnología, cocina, video juegos y el deporte. Me enfoco en el desarrollo web y de software, así como el desarrollo de bases de datos.  Me interesa el increíble mundo de los datos, por lo cual también muestro interés en el área de Análisis de datos.
 
 ## Educación.
 
