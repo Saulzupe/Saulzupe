@@ -12,6 +12,7 @@ Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Univers
 
 - Reforzar conocimientos sobre Java, PHP, Bases de datos y Análisis de datos.
 - Realizar un proyecto full stack (Jakarta) 👉🏻 [Jakarta JPA]()
+- Aprender acerca del framework Springboot
 - Investigar acerca de las buenas practicas de programación y SCRUM
 - Aportar de mis conocimiento de manera Freelance.
 
