@@ -63,6 +63,9 @@ Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Univers
   <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="ORACLE" width="65" height="65">
   </a>
+   <a href="https://www.linux.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="ORACLE" width="65" height="65">
+  </a>
 </p>
 
   ## SoftSkills
