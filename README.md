@@ -1,20 +1,24 @@
 # Saúl Zúñiga Pérez :v: 
-#### Desarrollador de Software  💻 actualmente en **búsqueda activa** de empleo♨️
+#### QA Tester | Software Development 💻 ♨️
 
-Me gusta aprender cosas nuevas, me considero una persona paciente, disciplinada y persistente. Soy un apasionado de la tecnología, cocina, video juegos y el deporte. Me enfoco en el desarrollo web y de software, así como el desarrollo de bases de datos.  Me interesa el increíble mundo de los datos, por lo cual también muestro interés en el área de Análisis de datos.
+Me gusta aprender cosas nuevas, me considero una persona paciente, disciplinada y persistente. Soy un apasionado de la tecnología, cocina, video juegos y el deporte. Me enfoco en el desarrollo web, BD y de software; actualmente soy Tester QA en Hitss para Telcel orientado en la parte de backend.  Me interesa el increíble mundo de los datos, por lo cual también muestro interés en el área de Análisis de datos o ciencia de datos.
 
 ## Educación.
 
 Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Universidad Nacional Autónoma de México.
 
-#### Actualmente me dedico a:
+## Actualmente me dedico a:
 
-
+- Realizar pruebas de software (caja negra y blanca) en APIS y prevenir fallos en el sistema
+- Relizar actualizaciones y liberaciones en aplicativos en producción
 - Reforzar conocimientos sobre Java, PHP, Bases de datos y Análisis de datos.
-- Realizar un proyecto full stack (Jakarta) 👉🏻 [Jakarta JPA]()
-- Aprender acerca del framework Springboot
-- Investigar acerca de las buenas practicas de programación y SCRUM
+- Investigar acerca de las buenas practicas de programación.
 - Aportar de mis conocimiento de manera Freelance.
+  
+## Proyectos 
+- Realizar un proyecto full stack (Jakarta) 👉🏻 [Jakarta JPA]()
+- Sitio web para un gimnasio.
+
 
 ## Skills.
 
@@ -30,6 +34,9 @@ Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Univers
 * R
 * Excel
 * Gulp
+* SCRUM
+* ORACLE SQL
+* GNU/Linux
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -53,6 +60,9 @@ Soy Egresado de la carrera de Matematicas aplicadas y Computación de la Univers
 <a href="https://www.jetbrains.com/es-es/idea/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"  alt="Java" width="65" height="65"/>   
 </a>
+  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="ORACLE" width="65" height="65">
+  </a>
 </p>
 
   ## SoftSkills
